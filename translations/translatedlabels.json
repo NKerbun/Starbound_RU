@@ -153,7 +153,7 @@
           "esther.cinematic.json": 19
         },
         "finale": {
-          "finale.cinematic.json": 32
+          "finale.cinematic.json": 36
         },
         "opengate": {
           "opengate.cinematic.json": 6
@@ -3247,8 +3247,8 @@
             "mechbodyglitch.item.json": 0,
             "mechbodyglitchproto.item.json": 0,
             "mechbodyhero.item.json": 2,
-            "mechbodyhuman.item.json": 0,
-            "mechbodyhumanproto.item.json": 0,
+            "mechbodyhuman.item.json": 2,
+            "mechbodyhumanproto.item.json": 2,
             "mechbodyhylotl.item.json": 0,
             "mechbodyhylotlproto.item.json": 0,
             "mechbodyiris.item.json": 2,
@@ -3256,10 +3256,10 @@
             "mechbodyminiknog.item.json": 0,
             "mechbodynovakid.item.json": 2,
             "mechbodynovakidproto.item.json": 2,
-            "mechbodypenguin.item.json": 0,
+            "mechbodypenguin.item.json": 2,
             "mechbodypirate.item.json": 2,
             "mechbodyprotector.item.json": 2,
-            "mechbodyreactor.item.json": 0,
+            "mechbodyreactor.item.json": 2,
             "mechbodyshark.item.json": 2,
             "mechbodyskull.item.json": 2
           },
@@ -3287,14 +3287,14 @@
             "mechhorntruck.item.json": 0
           },
           "legs": {
-            "mechlegsarc.item.json": 0,
-            "mechlegshermes.item.json": 0,
-            "mechlegshopper.item.json": 0,
-            "mechlegsintrepid.item.json": 0,
-            "mechlegsronin.item.json": 0,
-            "mechlegssimple.item.json": 0,
+            "mechlegsarc.item.json": 2,
+            "mechlegshermes.item.json": 2,
+            "mechlegshopper.item.json": 2,
+            "mechlegsintrepid.item.json": 2,
+            "mechlegsronin.item.json": 2,
+            "mechlegssimple.item.json": 2,
             "mechlegssleek.item.json": 0,
-            "mechlegstwinjet.item.json": 0
+            "mechlegstwinjet.item.json": 1
           }
         },
         "other": {
@@ -3448,7 +3448,7 @@
         "reedorgan.instrument.json": 2,
         "rockorgan.instrument.json": 2,
         "saxophone.instrument.json": 2,
-        "spaceorgan.instrument.json": 1,
+        "spaceorgan.instrument.json": 2,
         "squareorgan.instrument.json": 2,
         "steeldrum.instrument.json": 2,
         "trumpet.instrument.json": 2,
