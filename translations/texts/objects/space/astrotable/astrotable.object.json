@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A little table made from metal."
+      "Eng": "A little table made from metal.",
+      "Rus": "Небольшой стол сделанный из металла."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A metal table which has been mounted to the floor."
+      "Eng": "A metal table which has been mounted to the floor.",
+      "Rus": "Металлический стол, который был прикреплён к полу."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A solid, floor mounted working surface."
+      "Eng": "A solid, floor mounted working surface.",
+      "Rus": "Прочная рабочая поверхность, установленная на пол."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Astro Table"
+      "Eng": "Astro Table",
+      "Rus": "Астро стол"
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Jusst a metal table."
+      "Eng": "Jusst a metal table.",
+      "Rus": "Просссто металлический стол."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This table has a stripe painted on it."
+      "Eng": "This table has a stripe painted on it.",
+      "Rus": "На этом столе нарисована полоска."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This table is fixed to the floor, otherwise I think it might tip over."
+      "Eng": "This table is fixed to the floor, otherwise I think it might tip over.",
+      "Rus": "Этот стол прикреплён к полу, потому что в противном случае, я думаю, он бы опрокинулся."
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This table is unremarkable."
+      "Eng": "This table is unremarkable.",
+      "Rus": "Этот стол ничем не примечателен."
     }
   }
 ]

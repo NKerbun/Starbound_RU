@@ -1176,7 +1176,7 @@
     "/hail/glitch/default/2/glitchEmote": "texts/glitchEmotes.json",
     "/hail/glitch/default/2/glitchEmotedText": "texts/dialog/guard.config.json",
     "/hail/glitch/default/3/glitchEmote": "texts/glitchEmotes.json",
-    "/hail/glitch/default/3/glitchEmotedText": "texts/dialog/guard.config.json",
+    "/hail/glitch/default/3/glitchEmotedText": "texts/wide_spread_fields.json",
     "/hail/glitch/default/4/glitchEmote": "texts/glitchEmotes.json",
     "/hail/glitch/default/4/glitchEmotedText": "texts/dialog/guard.config.json",
     "/hail/glitch/default/5/glitchEmote": "texts/glitchEmotes.json",
@@ -1749,6 +1749,9 @@
     "/alert/glitch/default/4/glitchEmote": "texts/glitchEmotes.json",
     "/alert/glitch/default/4/glitchEmotedText": "texts/dialog/thief.config.json"
   },
+  "hunger.config": {
+    "/1/up/0": "texts/wide_spread_fields.json"
+  },
   "interface.config": {
     "/cursorTooltip/beamDownText": "texts/shared_interface.json",
     "/cursorTooltip/codexText": "texts/wide_spread_fields.json",
@@ -2014,6 +2017,15 @@
   "interface/scripted/keytrader/keytradergui.config": {
     "/gui/lblKeyName/value": "texts/shared_key.json",
     "/gui/lblTradeItemName/value": "texts/wide_spread_fields.json"
+  },
+  "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": {
+    "/scenes/art10/text": "texts/wide_spread_fields.json",
+    "/scenes/art13/options/0/0": "texts/wide_spread_fields.json",
+    "/scenes/art16/options/0/0": "texts/wide_spread_fields.json",
+    "/scenes/hockey2/text": "texts/wide_spread_fields.json",
+    "/scenes/kasumi1a/options/1/0": "texts/wide_spread_fields.json",
+    "/scenes/kasumi1b/options/1/0": "texts/wide_spread_fields.json",
+    "/scenes/song1/options/0/0": "texts/wide_spread_fields.json"
   },
   "interface/scripted/techupgrade/techupgradegui.config": {
     "/gui/lblChipsCount/value": "texts/interface/scripted/shared_gui.config.json",
@@ -2527,6 +2539,15 @@
   "items/active/weapons/chakram/chakram.activeitem": {
     "/shortdescription": "texts/items.json"
   },
+  "items/active/weapons/melee/abilities/broadsword/broadswordcombo.weaponability": {
+    "/ability/name": "texts/items/active/weapons/melee/abilities/shared_sword/shared_swordcombo.weaponability.json"
+  },
+  "items/active/weapons/melee/abilities/broadsword/flamethrowersword/flamethrowersword.weaponability": {
+    "/ability/name": "texts/items/active/weapons.json"
+  },
+  "items/active/weapons/melee/abilities/shortsword/shortswordcombo.weaponability": {
+    "/ability/name": "texts/items/active/weapons/melee/abilities/shared_sword/shared_swordcombo.weaponability.json"
+  },
   "items/active/weapons/melee/axe/commonaxe.activeitem": {
     "/description": "texts/items/active/weapons/shared_axe.json"
   },
@@ -2665,6 +2686,12 @@
   "items/active/weapons/other/electricrailgun/electricrailgun.activeitem": {
     "/description": "texts/items/active/weapons.json"
   },
+  "items/active/weapons/other/evileye/evileye.activeitem": {
+    "/shortdescription": "texts/items/active/weapons/other/evileye/shared_evileye..json"
+  },
+  "items/active/weapons/other/evileye/evileye.weaponability": {
+    "/ability/name": "texts/items/active/weapons/other/evileye/shared_evileye..json"
+  },
   "items/active/weapons/other/eyesword/eyesword.activeitem": {
     "/description": "texts/items/active/weapons/shared_eyesword.json"
   },
@@ -2678,6 +2705,15 @@
   "items/active/weapons/protectorate/titaniumspear.activeitem": {
     "/description": "texts/items/active/weapons/shared_spear.json"
   },
+  "items/active/weapons/ranged/abilities/flamethrower/flamethrower.weaponability": {
+    "/ability/name": "texts/items/active/weapons.json"
+  },
+  "items/active/weapons/ranged/abilities/flashlight/flashlight.weaponability": {
+    "/ability/name": "texts/items.json"
+  },
+  "items/active/weapons/ranged/abilities/grenadelauncher/grenadelauncher.weaponability": {
+    "/ability/name": "texts/items.json"
+  },
   "items/active/weapons/ranged/assaultrifle/commonassaultrifle.activeitem": {
     "/description": "texts/items/active/weapons/shared_assaultrifle.json"
   },
@@ -2686,6 +2722,9 @@
   },
   "items/active/weapons/ranged/assaultrifle/uncommonassaultrifle.activeitem": {
     "/description": "texts/items/active/weapons/shared_assaultrifle.json"
+  },
+  "items/active/weapons/ranged/flamethrower/flamethrower.activeitem": {
+    "/shortdescription": "texts/items/active/weapons.json"
   },
   "items/active/weapons/ranged/grenadelauncher/commongrenadelauncher.activeitem": {
     "/description": "texts/items/active/weapons/ranged/grenadelauncher/shared_grenadelauncher.activeitem.json"
@@ -2845,6 +2884,7 @@
     "/labels/door": "texts/wide_spread_fields.json",
     "/labels/fishingRod": "texts/items.json",
     "/labels/furniture": "texts/shared_config.json",
+    "/labels/grenadeLauncher": "texts/items.json",
     "/labels/headarmour": "texts/shared_config.json",
     "/labels/legarmour": "texts/shared_config.json",
     "/labels/legwear": "texts/shared_ies.json",
@@ -4663,10 +4703,10 @@
     "/shortdescription": "texts/shared_throwingblock..json"
   },
   "items/tools/flashlight.flashlight": {
-    "/shortdescription": "texts/items/tools/shared_flashlight.flashlight.json"
+    "/shortdescription": "texts/items.json"
   },
   "items/tools/greenflashlight.flashlight": {
-    "/shortdescription": "texts/items/tools/shared_flashlight.flashlight.json"
+    "/shortdescription": "texts/items.json"
   },
   "items/tools/inspectiontool/inspectionmode.inspectiontool": {
     "/nothingThereText/default/0": "texts/items/tools/inspectiontool/shared_nmode.inspectiontool.json",
@@ -4772,13 +4812,13 @@
     "/shortdescription": "texts/wide_spread_fields.json"
   },
   "items/tools/redflashlight.flashlight": {
-    "/shortdescription": "texts/items/tools/shared_flashlight.flashlight.json"
+    "/shortdescription": "texts/items.json"
   },
   "items/tools/wiretool.wiretool": {
     "/shortdescription": "texts/wide_spread_fields.json"
   },
   "items/tools/yellowflashlight.flashlight": {
-    "/shortdescription": "texts/items/tools/shared_flashlight.flashlight.json"
+    "/shortdescription": "texts/items.json"
   },
   "liquids/jellyliquid.liquid": {
     "/description": "texts/liquids/shared_liquid.liquid.json"
@@ -5162,6 +5202,7 @@
   "npcs/crew/crewmemberchemist.npctype": {
     "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1": "texts/npcs/crew/shared_crewmember.json",
     "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2": "texts/npcs/crew/shared_crewmember.json",
+    "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3": "texts/wide_spread_fields.json",
     "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/1": "texts/npcs/crew/shared_crewmember.json",
     "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/2": "texts/npcs/crew/shared_crewmember.json",
     "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmote": "texts/glitchEmotes.json",
