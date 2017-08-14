@@ -343,7 +343,7 @@
       "clues.config.json": 50,
       "colourful.config.json": 33,
       "combat.config.json": 185,
-      "converse.config.json": 1437,
+      "converse.config.json": 1540,
       "crewmember.config.json": 39,
       "cultist.config.json": 31,
       "deadbeat.config.json": 23,
@@ -362,18 +362,18 @@
       "mutantminer.config.json": 10,
       "oremerchant.config.json": 119,
       "outpost.config.json": 42,
-      "quest.config.json": 100,
+      "quest.config.json": 102,
       "rebel.config.json": 3,
       "scientist.config.json": 12,
       "shared_.config.json": 101,
       "shared_at.config.json": 1,
       "shared_merchant.config.json": 20,
       "shared_t.config.json": 1,
-      "shipcrew.config.json": 18,
+      "shipcrew.config.json": 28,
       "shroom.config.json": 85,
       "sniper.config.json": 23,
-      "spaceconverse.config.json": 50,
-      "spacehero.config.json": 13,
+      "spaceconverse.config.json": 85,
+      "spacehero.config.json": 16,
       "thief.config.json": 59
     },
     "dungeons": {
@@ -1070,7 +1070,7 @@
               },
               "guidedrocket": {
                 "exmachinarocket.weaponability.json": 0,
-                "guidedrocket.weaponability.json": 0
+                "guidedrocket.weaponability.json": 1
               },
               "homingrocket": {
                 "homingrocket.weaponability.json": 0
@@ -3673,7 +3673,6 @@
         "greenneonsymbol.matitem.json": 4,
         "hive.matitem.json": 1,
         "junk.matitem.json": 1,
-        "medievalladder.matitem.json": 4,
         "mirror.matitem.json": 1,
         "modernplatform.matitem.json": 1,
         "petalblock.matitem.json": 1,
@@ -4757,7 +4756,7 @@
           "wizardvisitor.npctype.json": 3
         }
       },
-      "shared_.npctype.json": 3,
+      "shared_.npctype.json": 4,
       "shared_r.npctype.json": 5,
       "shared_tutorial.json": 2,
       "space": {
@@ -6336,7 +6335,7 @@
         },
         "coralcave": {
           "shared_embercoral": {
-            "shared_embercoral.json": 0
+            "shared_embercoral.json": 8
           }
         },
         "crystalline": {
@@ -8780,7 +8779,7 @@
           "tent2yellow.object.json": 1
         },
         "torch": {
-          "torch.object.json": 6
+          "torch.object.json": 8
         },
         "travellersbeacon": {
           "travellersbeacon.object.json": 9
@@ -13332,7 +13331,7 @@
         "vaultkey.questtemplate.json": 7
       },
       "quests.config.json": 47,
-      "shared_.questtemplate.json": 2,
+      "shared_.questtemplate.json": 1,
       "story": {
         "apex_mission1.questtemplate.json": 11,
         "apex_mission2.questtemplate.json": 5,
@@ -13359,7 +13358,7 @@
       "exploration.radiomessages.json": 7,
       "intro.radiomessages.json": 16,
       "mech.radiomessages.json": 13,
-      "missions.radiomessages.json": 55,
+      "missions.radiomessages.json": 54,
       "quests.radiomessages.json": 6,
       "ship.radiomessages.json": 3,
       "techchallenge.radiomessages.json": 8,
@@ -13367,9 +13366,6 @@
     },
     "radiomessages.config.json": 1,
     "shared_able.json": 2,
-    "shared_age": {
-      "shared_mission.json": 1
-    },
     "shared_ancientplatform.mat.json": 5,
     "shared_anfemale.json": 6,
     "shared_anmale.json": 1,
@@ -13387,12 +13383,12 @@
     "shared_cora.json": 1,
     "shared_ect.json": 1,
     "shared_eri.json": 2,
+    "shared_est.json": 1,
     "shared_goldenplatform.mat.json": 5,
     "shared_ice..json": 1,
     "shared_ies.json": 1,
     "shared_ing.json": 1,
     "shared_interface.json": 2,
-    "shared_ion.json": 1,
     "shared_key.json": 1,
     "shared_lunarbaseplatform.mat.json": 5,
     "shared_merchant..json": 1,
@@ -13451,7 +13447,7 @@
     },
     "stagehands": {
       "mission": {
-        "glitchmissionmanager.stagehand.json": 11
+        "glitchmissionmanager.stagehand.json": 10
       }
     },
     "stats": {
@@ -13715,6 +13711,6 @@
       }
     },
     "universe_server.config.json": 2,
-    "wide_spread_fields.json": 70
+    "wide_spread_fields.json": 74
   }
 }
